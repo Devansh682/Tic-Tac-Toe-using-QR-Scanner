@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with QR Code Scanner
 
-This is a simple implementation of the popular game Tic-Tac-Toe with an added functionality of using a QR code scanner to play. The project uses OpenCV and pyzbar libraries for the webcam and QR code scanning functionality, and the game logic is implemented using the minimax algorithm.
+This is a simple implementation of the popular game Tic-Tac-Toe with an added functionality of using a QR code scanner to play. The project uses OpenCV and pyzbar libraries for the webcam and QR code scanning functionality, and the game logic is implemented using minimax algorithm.
 
 ## Installation
 
