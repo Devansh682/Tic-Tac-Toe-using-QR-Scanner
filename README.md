@@ -25,7 +25,7 @@ python tic_tac_toe.py
 
 ## Code Explanation
 
-The program first initializes the tic-tac-toe board, the QR code symbols, and the webcam. The `minimax` algorithm is used to determine the best move for the computer player, and `check_win` and `is_board_full` functions are used to check for wins and ties. 
+The program first initialises the tic-tac-toe board, the QR code symbols, and the webcam. The `minimax` algorithm is used to determine the best move for the computer player, and `check_win` and `is_board_full` functions are used to check for wins and ties. 
 
 In the main loop, the program reads the frame from the webcam and decodes any QR code symbols present in the frame. It then draws the tic-tac-toe board on the frame and checks if the game is over. If a QR code symbol is detected, it makes the corresponding move and updates the board.
 
